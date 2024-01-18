@@ -1,4 +1,4 @@
-#prints last dates of last 7 days
+# prints dates of last 7 days
 
 import datetime
 
